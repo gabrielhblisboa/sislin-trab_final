@@ -8,4 +8,5 @@ polos e zeros, diagrama de Bode, resposta ao Degrau Unitário, resposta à Rampa
 resposta à Onda Quadrada, resposta à Dente de Serra e harmônicos da Série de Fourier.
 
 Aluno: Gabriel Henrique Braga Lisboa
+
 Professor: Natanael Nunes de Moura Junior
